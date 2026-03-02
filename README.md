@@ -1,7 +1,7 @@
-===============================================================
+
   F1 TELEMETRY ANALYSIS — EXPERIENTIAL LEARNING PROJECT
   Mercedes Teammate Comparison: Australia GP 2024
-===============================================================
+
 
 OVERVIEW
 --------
